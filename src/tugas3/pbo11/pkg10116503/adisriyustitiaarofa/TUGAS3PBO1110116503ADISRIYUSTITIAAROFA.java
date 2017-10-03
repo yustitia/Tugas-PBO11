@@ -7,7 +7,12 @@ package tugas3.pbo11.pkg10116503.adisriyustitiaarofa;
 
 /**
  *
- * @author yustitia arofa
+ * @author 
+ *
+ * Nama : Adisri Yustitia Arofa
+ * NIM  : 10116503  
+ * Kelas : PBO-11
+ * 
  */
 class nilaiMahasiswa {
 
