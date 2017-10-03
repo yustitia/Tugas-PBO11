@@ -33,7 +33,7 @@ class nilaiMahasiswa {
 
     }
 
-    void HasilBelajar() {
+    void hasilBelajar() {
         
         double nQuiz = 0.2 * quiz;
         double nUts = 0.3 * uts;
@@ -102,7 +102,7 @@ public class TUGAS3PBO1110116503ADISRIYUSTITIAAROFA {
         mhs1.quiz = 50;
         mhs1.uas = 80;
         mhs1.uts = 60;
-        mhs1.HasilBelajar();
+        mhs1.hasilBelajar();
     }
 
 }
